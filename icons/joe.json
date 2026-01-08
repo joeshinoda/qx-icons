@@ -4,23 +4,23 @@
   "icons": [
     {
       "name": "cocoduck",
-      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/main/icons/cocoduck.png"
+      "url": "https://fastly.jsdelivr.net/gh/joeshinoda/qx-icons/main/icons/cocoduck.png"
     },
     {
       "name": "edgetunnel",
-      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/main/icons/edgetunnel.png"
+      "url": "https://fastly.jsdelivr.net/gh/joeshinoda/qx-icons/main/icons/edgetunnel.png"
     },
     {
       "name": "candytally",
-      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/main/icons/candytally.png"
+      "url": "https://fastly.jsdelivr.net/gh/joeshinoda/qx-icons/main/icons/candytally.png"
     },
     {
       "name": "linlujs",
-      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/main/icons/linlujs.png"
+      "url": "https://fastly.jsdelivr.net/gh/joeshinoda/qx-icons/main/icons/linlujs.png"
     },
     {
       "name": "speedcat",
-      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/main/icons/speedcat.png"
+      "url": "https://fastly.jsdelivr.net/gh/joeshinoda/qx-icons/main/icons/speedcat.png"
     }
   ]
 }
