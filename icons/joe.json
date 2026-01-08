@@ -1,0 +1,27 @@
+{
+  "name": "Joe",
+  "description": "自用机场",
+  "icons": [
+    {
+      "name": "cocoduck",
+      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/refs/heads/main/icons/cocoduck.png"
+    },
+    {
+      "name": "edgetunnel",
+      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/refs/heads/main/icons/edgetunnel.png"
+    },
+    {
+      "name": "candytally",
+      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/refs/heads/main/icons/candytally.png"
+    },
+    {
+      "name": "linlujs",
+      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/refs/heads/main/icons/linlujs.png"
+    },
+    {
+      "name": "speedcat",
+      "url": "https://raw.githubusercontent.com/joeshinoda/qx-icons/refs/heads/main/icons/speedcat.png"
+    }
+  ]
+}
+   
